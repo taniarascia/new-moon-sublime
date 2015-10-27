@@ -1,6 +1,6 @@
 New Moon Theme for Sublime
 ===========================
-
+**New Moon is also available for Brackets! [Check it out!](https://github.com/taniarascia/new-moon)**
 *Update 10/27/15 Now available for Sublime Text!*
 
 This theme was created to be optimized for front end web development - HTML, CSS, JavaScript and PHP/Wordpress. It's a low contrast dark theme using color inspiration from Tomorrow Night Eighties, and style inspiration from Twilight. 
