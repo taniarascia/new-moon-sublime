@@ -8,7 +8,7 @@ New Moon Theme for Sublime
 
 * Save [New Moon.tmTheme](https://github.com/taniarascia/new-moon-sublime/blob/master/New%20Moon.tmTheme) file.
 * In Sublime, go to `Preferences -> Browse Packages`
-* Move `New Moon.tmTheme` into that folder
+* Move `New Moon.tmTheme` into Packages folder
 * Go to `Preferences -> Color Scheme -> New Moon
 * Alternatively, paste this code into `Preferences -> Settings - User`
 
