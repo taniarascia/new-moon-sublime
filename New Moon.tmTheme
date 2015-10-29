@@ -279,7 +279,7 @@ keyword.operator.class.php</string>
 			<string>HTML Tag</string>
 			<key>scope</key>
 			<string>entity.name.tag, meta.tag, declaration.tag,
-text.html.tt source.js.embedded.html punctuation.definition.tag.html</string>
+text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
