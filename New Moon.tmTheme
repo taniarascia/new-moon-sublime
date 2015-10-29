@@ -278,7 +278,9 @@ keyword.operator.class.php</string>
 			<key>name</key>
 			<string>HTML Tag</string>
 			<key>scope</key>
-			<string>entity.name.tag, meta.tag, declaration.tag</string>
+			<string>entity.name.tag, meta.tag, declaration.tag,
+text.html.tt source.js.embedded.html punctuation.definition.tag.html,
+text.html.tt meta.tag.inline.any.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -349,7 +351,7 @@ support.constant.dom.js, meta.function-call.php</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.tomorrow_night_eighties</string>
+	<string>theme.dark.new_moon</string>
 	<key>author</key>
 	<string>Tania Rascia</string>
 </dict>
