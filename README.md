@@ -1,8 +1,7 @@
 New Moon Theme for Sublime
 ===========================
-**New Moon is also available for Brackets! [Check it out!](https://github.com/taniarascia/new-moon)**
 
-*Update 10/27/15 Now available for Sublime Text!*
+**New Moon is now available for [Brackets](https://github.com/taniarascia/new-moon) and [Atom](https://github.com/taniarascia/new-moon-atom-syntax)! 
 
 **Instructions for Manual Installation**
 
