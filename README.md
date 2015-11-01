@@ -1,4 +1,4 @@
-New Moon Theme for Sublime
+New Moon Color Scheme for Sublime
 ===========================
 
 **New Moon is also available for [Brackets](https://github.com/taniarascia/new-moon) and [Atom](https://github.com/taniarascia/new-moon-atom-syntax)!**
