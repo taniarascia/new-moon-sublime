@@ -3,6 +3,12 @@ New Moon Color Scheme for Sublime
 
 **New Moon is also available for [Brackets](https://github.com/taniarascia/new-moon) and [Atom](https://github.com/taniarascia/new-moon-atom-syntax)!**
 
+**Instructions for Package Control**
+* Go to `Tools -> Command Palette`
+* `Package Control: Install Package`
+* Type `New Moon`
+* [View on Package Control](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme)
+
 **Instructions for Manual Installation**
 
 * Save [New Moon.tmTheme](https://github.com/taniarascia/new-moon-sublime/blob/master/New%20Moon.tmTheme) file.
