@@ -3,6 +3,8 @@ New Moon Color Scheme for Sublime
 
 **New Moon is also available for [Brackets](https://github.com/taniarascia/new-moon) and [Atom](https://github.com/taniarascia/new-moon-atom-syntax)!**
 
+*Updated 11/27/15 - improvements to colors and legibility*
+
 **Instructions for Package Control**
 
 * Go to `Tools -> Command Palette`
@@ -22,7 +24,7 @@ New Moon Color Scheme for Sublime
 	"color_scheme": "Packages/Color Scheme - Default/New Moon.tmTheme"
 }```
 
-This theme was created to be optimized for front end web development - HTML, CSS, JavaScript and PHP/Wordpress. It's a middle-contrast dark theme using color inspiration from Tomorrow Night Eighties, and style inspiration from Twilight. 
+This theme was created to be optimized for front end web development - HTML, CSS, JavaScript and PHP/WordPress. It's a middle-contrast dark theme using color inspiration from Tomorrow Night Eighties, and style inspiration from Twilight. 
 
 Most of the dark themes I tried using were distracting and overly colorful and contrast heavy, especially with PHP embedded into HTML. The New Moon theme strives to remedy that, with a theme that is pleasant to view in any language.
 
@@ -33,16 +35,19 @@ Most of the dark themes I tried using were distracting and overly colorful and c
 ![PHP Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/php.png)
 
 ## PHP/HTML
-![PHP Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/phphtml.png)
+![PHP HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/htmlphp.png)
 
 ## CSS
 ![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/css.png)
 
 ## Sass
-![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublimex/master/images/sass.png)
+![SASS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublimex/master/images/sass.png)
 
 ## LESS
-![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/less.png)
+![LESS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/less.png)
 
 ## JavaScript
 ![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/js.png)
+
+## jQuery
+![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/jquery.png)

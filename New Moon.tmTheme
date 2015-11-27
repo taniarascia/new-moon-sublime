@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string></string>
+	<string>New Moon Theme for Sublime Text</string>
 	<key>name</key>
 	<string>New Moon</string>
 	<key>settings</key>
@@ -16,7 +16,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3A3A3A</string>
+				<string>#373838</string>
 				<key>caret</key>
 				<string>#ffffff</string>
 				<key>foreground</key>
@@ -24,7 +24,7 @@
 				<key>invisibles</key>
 				<string>#6A6A6A</string>
 				<key>lineHighlight</key>
-				<string>#222222</string>
+				<string>#111111</string>
 				<key>selection</key>
 				<string>#292929</string>
 			</dict>
@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#868A8C</string>
+				<string>#85878A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#E3C485</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F99157</string>
+				<string>#FF9B62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +125,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6699CC</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +138,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#5D9CD0</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -283,7 +283,7 @@ text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5D9CD0</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -294,7 +294,7 @@ text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FEDE88</string>
+				<string>#FFEEAD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +305,7 @@ text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5D9CD0</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
