@@ -41,7 +41,7 @@ Most of the dark themes I tried using were distracting and overly colorful and c
 ![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/css.png)
 
 ## Sass
-![SASS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublimex/master/images/sass.png)
+![SASS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/sass.png)
 
 ## LESS
 ![LESS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/less.png)
