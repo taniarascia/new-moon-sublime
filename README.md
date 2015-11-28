@@ -1,6 +1,6 @@
 New Moon Color Scheme for Sublime
 ===========================
-[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
+###[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
 
 ![New Moon Icon](https://github.com/taniarascia/new-moon/blob/master/images/newmoon.png)
 
