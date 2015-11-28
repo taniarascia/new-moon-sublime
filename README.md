@@ -2,7 +2,7 @@ New Moon Color Scheme for Sublime
 ===========================
 ###[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
 
-![New Moon Icon](https://github.com/taniarascia/new-moon/blob/master/images/newmoon.png)
+![New Moon Icon](https://raw.githubusercontent.com/taniarascia/new-moon/master/images/newmoon.png)
 
 **New Moon is also available for [Brackets](https://github.com/taniarascia/new-moon) and [Atom](https://github.com/taniarascia/new-moon-atom-syntax)!**
 
