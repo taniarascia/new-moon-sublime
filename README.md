@@ -23,7 +23,8 @@
 * Go to `Preferences -> Color Scheme -> New Moon`
 * Alternatively, paste this code into `Preferences -> Settings - User`
 
-```{
+```
+{
 	"color_scheme": "Packages/Color Scheme - Default/New Moon.tmTheme"
 }
 ```
