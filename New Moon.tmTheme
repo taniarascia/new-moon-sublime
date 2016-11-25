@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#85878A</string>
+				<string>#A9A9A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#D5D5D5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E3C485</string>
+				<string>#FFD479</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF9B62</string>
+				<string>#ED9963</string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,7 +100,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#99CCAA</string>
+				<string>#A8D3A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +125,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#78AAD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +138,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#78AAD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,7 +153,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F2777A</string>
+				<string>#F78D8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -168,7 +168,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F2777A</string>
+				<string>#F78D8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -190,7 +190,7 @@ keyword.operator.class.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99CCAA</string>
+				<string>#A8D3A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +201,7 @@ keyword.operator.class.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#F78D8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,7 +227,7 @@ keyword.operator.class.php</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#3e999f</string>
+				<string>#76D4D6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -238,7 +238,7 @@ keyword.operator.class.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#F78D8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -249,7 +249,7 @@ keyword.operator.class.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99CCAA</string>
+				<string>#A8D3A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,7 +260,7 @@ keyword.operator.class.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC99CC</string>
+				<string>#D6ACD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -271,7 +271,7 @@ keyword.operator.class.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC99CC</string>
+				<string>#D6ACD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -283,7 +283,7 @@ text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#78AAD6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -294,7 +294,7 @@ text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFEEAD</string>
+				<string>#ffeea6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +305,7 @@ text.html.tt source.js.embedded.html, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#F78D8C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -341,7 +341,7 @@ support.constant.dom.js, meta.function-call.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9DBEDD</string>
+				<string>#78AAD6</string>
 			</dict>
 		</dict>
 	</array>

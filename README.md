@@ -1,21 +1,21 @@
-#New Moon Color Scheme for Sublime
+# New Moon Color Scheme for Sublime
 
-###[Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
+### [Beautiful Syntax Highlighting](http://taniarascia.github.io/new-moon/)
 
 ![New Moon Icon](https://raw.githubusercontent.com/taniarascia/new-moon/master/images/newmoon.png)
 
 **New Moon is also available for [Brackets](https://github.com/taniarascia/new-moon) and [Atom](https://github.com/taniarascia/new-moon-atom-syntax)!**
 
-*Updated 11/27/15 - improvements to colors and legibility*
+*Updated 11/27/16 - improvements to colors and legibility*
 
-### Instructions for Package Control
+## Instructions for Package Control
 
 * Go to `Tools -> Command Palette`
 * `Package Control: Install Package`
 * Type `New Moon`
 * [View on Package Control](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme)
 
-### Instructions for Manual Installation
+## Instructions for Manual Installation
 
 * Save [New Moon.tmTheme](https://github.com/taniarascia/new-moon-sublime/blob/master/New%20Moon.tmTheme) file.
 * In Sublime, go to `Preferences -> Browse Packages`
@@ -33,31 +33,26 @@ This theme was created to be optimized for front end web development - HTML, CSS
 
 Most of the dark themes I tried using were distracting and overly colorful and contrast heavy, especially with PHP embedded into HTML. The New Moon theme strives to remedy that, with a theme that is pleasant to view in any language.
 
-## HTML
+### HTML
 ![HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/html.png)
 
-## PHP
+### PHP
 ![PHP Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/php.png)
 
-## PHP/HTML
+### PHP/HTML
 ![PHP HTML Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/htmlphp.png)
 
-## CSS
+### CSS
 ![CSS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/css.png)
 
-## Sass
+### Sass
 ![SASS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/sass.png)
 
-## LESS
-![LESS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/less.png)
-
-## JavaScript
+### JavaScript
 ![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/js.png)
 
-## jQuery
+### jQuery
 ![JS Screenshot](https://raw.githubusercontent.com/taniarascia/new-moon-sublime/master/images/jquery.png)
 
 ## License
-
 The code is open source and available under the [MIT License](LICENSE.md).
-
